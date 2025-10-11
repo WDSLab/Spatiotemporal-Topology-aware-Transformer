@@ -28,7 +28,10 @@ python main.py --pred_len 1800 --seq_len 360 --batch_size 32 --log_interval 15
 ```
 
 # Performance
-![Image](https://github.com/user-attachments/assets/5a76a24b-6576-4a51-b955-4193e3621ef6)
+<img width="1503" height="1724" alt="Image" src="https://github.com/user-attachments/assets/22e307d2-6946-453f-8e23-18bdf93a76ca" />
+
+# Future estimation
+<img width="3525" height="2743" alt="Image" src="https://github.com/user-attachments/assets/57717e54-2f08-4855-bb0a-df092e973398" />
 
 # Hidden state visualization
-![Image](https://github.com/user-attachments/assets/2e8ab030-e8c0-45ea-b647-d368a42b8f6b)
+<img width="5701" height="5933" alt="Image" src="https://github.com/user-attachments/assets/dfaa5553-f349-4d0f-80b6-a53c0a460d4d" />
